@@ -4,4 +4,4 @@
 
 </div>
 
-![](CV.png?raw=true)
+![](cv.png?raw=true)
